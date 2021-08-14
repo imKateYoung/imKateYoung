@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Kate</h1>
 <h3 align="center">I am a Software Engineer based in Phildelphia, PA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React, ASP.NET, C# and SQL Server. As a software engineer, I bring my strong entrepreneurial mindset and hustle to life by building robust scalable software that has a direct impact on end-users with the goal of improving the customer experience.</h3>
