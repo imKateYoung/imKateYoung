@@ -3,15 +3,13 @@
 <h1 align="center">Hi 👋, I'm Kate</h1>
 <h3 align="center">I am a Software Engineer based in Phildelphia, PA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React, ASP.NET, C# and SQL Server. As a software engineer, I bring my strong entrepreneurial mindset and hustle to life by building robust scalable software that has a direct impact on end-users with the goal of improving the customer experience.</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **Mybrary**
 
 - 🌱 I’m currently learning **React and Azure**
 
 - 📝 I regularly write articles on [https://dev.to/imkateyoung](https://dev.to/imkateyoung)
 
 - 📫 How to reach me **imkateyoungdev@gmail.com**
-
-- 📄 Know about my experiences [https://kate-he-resume-2021.netlify.app/](https://kate-he-resume-2021.netlify.app/)
 
 - ⚡ Fun fact **People thinks I have a funny personality.**
 
