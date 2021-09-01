@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **imkateyoungdev@gmail.com**
 
-- ⚡ Fun fact **People thinks I have a funny personality.**
+- ⚡ Fun fact **People think I have a fun personality.**
 
 
 <h3 align="left">Languages and Tools:</h3>
