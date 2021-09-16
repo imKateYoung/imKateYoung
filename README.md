@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **React and Azure**
 
-- 📝 I regularly write articles on [https://dev.to/imkateyoung](https://dev.to/imkateyoung)
-
 - 📫 How to reach me **imkateyoungdev@gmail.com**
-
-- ⚡ Fun fact **People think I have a fun personality.**
 
 
 <h3 align="left">Languages and Tools:</h3>
