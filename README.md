@@ -1,6 +1,7 @@
 
 
-<h1 align="center"> ✨Hi there, I'm Kate</h1>
+<h1 align="center"> ✨Hi there, My name is Kate</h1>
+<h2>Thanks for stopping by</h2>
 <h3 align="center">I am a Software Engineer based in Phildelphia, PA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React, ASP.NET, C# and SQL Server. As a software engineer, I bring my strong entrepreneurial mindset and hustle to life by building robust scalable software that has a direct impact on end-users with the goal of improving the customer experience.</h3>
 
 - 🔭 I’m currently working on **Mybrary**
