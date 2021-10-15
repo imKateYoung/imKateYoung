@@ -1,12 +1,23 @@
+<div align="center">
+
+![banner](https://user-images.githubusercontent.com/17926581/137524751-784987aa-aea6-4fa5-8f15-eaaca62a164d.gif)
+</div>
+
+<h1 align="center"> Hi👋, I'm Kate </h1>
+
+<h4 align="center">A Full Stack software developer based in Philadelphia, PA.</h4> 
+<h3 align="center"> and I want to be your next Software Engineer!</h3>
 
 
-<h1 align="center"> ✨Hi there, My name is Kate</h1>
 
-<h3 align="center">I am a Software Engineer based in Phildelphia, PA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React, ASP.NET, C# and SQL Server. As a software engineer, I bring my strong entrepreneurial mindset and hustle to life by building robust scalable software that has a direct impact on end-users with the goal of improving the customer experience.</h3>
 
 - 🔭 I’m currently working on **Mybrary**
 
-- 🌱 I’m currently learning **React and Azure**
+- 🌱 I’m currently learning **React, Next.js and Azure**
+
+- ❤️ I love innovative and creative projects.
+
+- 👯 I’m looking to collaborate on any projects meant to help those who are underprivileged.
 
 - 📫 How to reach me **imkateyoungdev@gmail.com**
 
