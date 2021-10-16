@@ -17,8 +17,6 @@
 
 - ❤️ I love innovative and creative projects.
 
-- 👯 I’m looking to collaborate on any projects meant to help those who are underprivileged.
-
 - 📫 How to reach me **imkateyoungdev@gmail.com**
 
 
