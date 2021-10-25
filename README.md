@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Mybrary**
 
-- 🌱 I’m currently learning **React, Next.js and Azure**
+- 🌱 I’m currently learning **React and Azure**
 
 - ❤️ I love innovative and creative projects.
 
