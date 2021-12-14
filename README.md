@@ -1,7 +1,4 @@
-<div align="center">
 
-![banner](https://user-images.githubusercontent.com/17926581/137524751-784987aa-aea6-4fa5-8f15-eaaca62a164d.gif)
-</div>
 
 <h1 align="center"> Hi👋, I'm Kate </h1>
 
